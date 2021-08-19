@@ -2,6 +2,3 @@ src-git packages https://github.com/immortalwrt/packages.git^7cf9b7f
 src-git luci https://github.com/immortalwrt/luci.git^11f4645
 src-git routing https://github.com/openwrt-routing/packages.git^52aaf90
 src-git telephony https://github.com/openwrt/telephony.git^aa19540
-src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
